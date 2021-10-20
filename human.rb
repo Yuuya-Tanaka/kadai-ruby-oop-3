@@ -11,4 +11,4 @@ class Human < Animal
     self.age = age
     self.hobby = hobby
   end
-end
+end  
