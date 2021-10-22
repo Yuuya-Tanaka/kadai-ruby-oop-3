@@ -1,5 +1,3 @@
-require './animal'
-
 module Thinkable
   
   def think

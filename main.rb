@@ -1,5 +1,4 @@
 require './human'
-require './thinkable'
 # インスタンスの作成
 tanaka = Human.new('田中 太郎', 25, '電卓')
 suzuki = Human.new('鈴木 次郎', 30, '野球' )
